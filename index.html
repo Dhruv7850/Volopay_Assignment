@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Listing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="tabs">
+    <button class="tab-button active" id="tab-your">Your Cards</button>
+    <button class="tab-button" id="tab-all">All Cards</button>
+    <button class="tab-button" id="tab-blocked">Blocked Cards</button>
+  </div>
+
+  <div id="filter">
+    <label for="filter-type">Filter by Card Type:</label>
+    <select id="filter-type">
+      <option value="all">All</option>
+      <option value="burner">Burner</option>
+      <option value="subscription">Subscription</option>
+    </select>
+  </div>
+
+  <div id="cards-container">
+    <!-- Cards will be dynamically added here -->
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

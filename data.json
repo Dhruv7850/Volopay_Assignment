@@ -1,0 +1,330 @@
+{
+    "data": [
+      {
+        "name": "Mixmax",
+        "budget_name": "Software subscription",
+        "owner_id": 1,
+        "spent": {
+          "value": 100,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 1000,
+          "currency": "SGD"
+        },
+        "card_type": "burner",
+        "expiry": "9 Feb",
+        "limit": 100,
+        "status": "active"
+      },
+      {
+        "name": "Quickbooks",
+        "budget_name": "Software subscription",
+        "owner_id": 2,
+        "spent": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 250,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 10,
+        "status": "active"
+      },
+      {
+        "name": "Netflix",
+        "budget_name": "Entertainment",
+        "owner_id": 1,
+        "spent": {
+          "value": 200,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 300,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Amazon Prime",
+        "budget_name": "Shopping",
+        "owner_id": 2,
+        "spent": {
+          "value": 75,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 150,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 15,
+        "status": "blocked"
+      },
+      {
+        "name": "Google Drive",
+        "budget_name": "Cloud Storage",
+        "owner_id": 1,
+        "spent": {
+          "value": 0,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 200,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 20,
+        "status": "active"
+      },
+      {
+        "name": "Adobe Creative Cloud",
+        "budget_name": "Design Tools",
+        "owner_id": 3,
+        "spent": {
+          "value": 150,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 350,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Spotify",
+        "budget_name": "Music Streaming",
+        "owner_id": 2,
+        "spent": {
+          "value": 80,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 120,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 10,
+        "status": "active"
+      },
+      {
+        "name": "Zoom",
+        "budget_name": "Communication",
+        "owner_id": 3,
+        "spent": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 200,
+          "currency": "SGD"
+        },
+        "card_type": "burner",
+        "expiry": "15 Mar",
+        "limit": 50,
+        "status": "active"
+      },
+      {
+        "name": "Dropbox",
+        "budget_name": "Cloud Storage",
+        "owner_id": 1,
+        "spent": {
+          "value": 25,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 175,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 10,
+        "status": "blocked"
+      },
+      {
+        "name": "Trello",
+        "budget_name": "Project Management",
+        "owner_id": 2,
+        "spent": {
+          "value": 10,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 40,
+          "currency": "SGD"
+        },
+        "card_type": "burner",
+        "expiry": "5 Apr",
+        "limit": 30,
+        "status": "active"
+      },
+      {
+        "name": "Hulu",
+        "budget_name": "Entertainment",
+        "owner_id": 3,
+        "spent": {
+          "value": 40,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 60,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Microsoft Office 365",
+        "budget_name": "Productivity",
+        "owner_id": 1,
+        "spent": {
+          "value": 100,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 200,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Uber Eats",
+        "budget_name": "Food Delivery",
+        "owner_id": 2,
+        "spent": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Slack",
+        "budget_name": "Communication",
+        "owner_id": 3,
+        "spent": {
+          "value": 60,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 90,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "blocked"
+      },
+      {
+        "name": "GitHub",
+        "budget_name": "Development Tools",
+        "owner_id": 1,
+        "spent": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "card_type": "burner",
+        "expiry": "2 May",
+        "limit": 25,
+        "status": "active"
+      },
+      {
+        "name": "LinkedIn Premium",
+        "budget_name": "Professional Networking",
+        "owner_id": 2,
+        "spent": {
+          "value": 100,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 100,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Asana",
+        "budget_name": "Project Management",
+        "owner_id": 3,
+        "spent": {
+          "value": 20,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 80,
+          "currency": "SGD"
+        },
+        "card_type": "burner",
+        "expiry": "12 Jun",
+        "limit": 40,
+        "status": "active"
+      },
+      {
+        "name": "Apple Music",
+        "budget_name": "Music Streaming",
+        "owner_id": 1,
+        "spent": {
+          "value": 30,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 20,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      },
+      {
+        "name": "Notion",
+        "budget_name": "Productivity",
+        "owner_id": 2,
+        "spent": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 50,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "blocked"
+      },
+      {
+        "name": "Grammarly",
+        "budget_name": "Writing Tools",
+        "owner_id": 3,
+        "spent": {
+          "value": 40,
+          "currency": "SGD"
+        },
+        "available_to_spend": {
+          "value": 60,
+          "currency": "SGD"
+        },
+        "card_type": "subscription",
+        "limit": 5,
+        "status": "active"
+      }
+    ]
+  }
+  
